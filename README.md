@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 
 
 ![vaishnav's github stats](https://github-readme-stats.vercel.app/api?username=vaishnav-197&show_icons=true&theme=dark&count_private=true)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

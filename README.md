@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 07 March, 2021 - 14 March, 2021
 
 JavaScript   3 hrs 19 mins   ████████████████████▓░░░░   82.57 % 
 Python       37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 

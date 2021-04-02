@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2021 - 31 March, 2021
+Week: 25 March, 2021 - 01 April, 2021
 
-EJS          3 hrs 9 mins    █████████████░░░░░░░░░░░░   51.97 % 
-JavaScript   2 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.77 % 
-JSON         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-CSS          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+EJS          3 hrs 4 mins    █████████████▓░░░░░░░░░░░   55.17 % 
+JavaScript   1 hr 41 mins    ███████▓░░░░░░░░░░░░░░░░░   30.36 % 
+JSON         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+CSS          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->

@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 April, 2021 - 08 April, 2021
+Week: 02 April, 2021 - 09 April, 2021
 
-Bash   1 min           █████████████████████████   100.00 % 
+Python   7 mins          ████████████████████▓░░░░   83.33 % 
+Bash     1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 <!--END_SECTION:waka-->

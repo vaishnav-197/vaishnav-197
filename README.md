@@ -17,11 +17,4 @@ Here are some ideas to get you started:
 ![vaishnav's github stats](https://github-readme-stats.vercel.app/api?username=vaishnav-197&show_icons=true&theme=dark&count_private=true)
 
 
-<!--START_SECTION:waka-->
-```text
-Week: 03 April, 2021 - 10 April, 2021
 
-Python   7 mins          █████████████████████░░░░   84.04 % 
-Bash     1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-```
-<!--END_SECTION:waka-->

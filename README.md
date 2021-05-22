@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 May, 2021 - 20 May, 2021
+Week: 14 May, 2021 - 21 May, 2021
 
-Python       5 hrs 32 mins   ██████████████▓░░░░░░░░░░   59.31 % 
-JavaScript   2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.94 % 
-HTML         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-CSS          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python       7 hrs 24 mins   ████████████████▒░░░░░░░░   65.84 % 
+JavaScript   2 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.35 % 
+HTML         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+CSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->

@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 May, 2021 - 01 June, 2021
+Week: 26 May, 2021 - 02 June, 2021
 
-JavaScript   4 hrs 27 mins   ██████████████████████░░░   88.17 % 
-HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JavaScript   4 hrs 9 mins    ████████████████████░░░░░   80.33 % 
+Text         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->

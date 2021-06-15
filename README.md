@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
+Week: 07 June, 2021 - 14 June, 2021
 
-JavaScript   5 hrs 55 mins   █████████████████████▒░░░   85.81 % 
-YAML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JavaScript   6 hrs 1 min     █████████████████████░░░░   83.76 % 
+YAML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->

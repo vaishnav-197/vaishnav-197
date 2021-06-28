@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 June, 2021 - 26 June, 2021
+Week: 21 June, 2021 - 27 June, 2021
 
-Python       3 hrs 55 mins   ████████████████████░░░░░   79.46 % 
-Assembly     56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 % 
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python       4 hrs 6 mins    ██████████████████▒░░░░░░   73.59 % 
+Assembly     50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+JavaScript   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->

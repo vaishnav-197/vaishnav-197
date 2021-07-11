@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2021 - 09 July, 2021
+Week: 04 July, 2021 - 10 July, 2021
 
-Markdown     3 mins          ███████████░░░░░░░░░░░░░░   43.85 % 
-JSON         3 mins          █████████░░░░░░░░░░░░░░░░   36.48 % 
-JavaScript   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.53 % 
+JavaScript   14 mins         ██████████▒░░░░░░░░░░░░░░   41.92 % 
+JSON         8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
+Other        7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.53 % 
+Markdown     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 ```
 <!--END_SECTION:waka-->

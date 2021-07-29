@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2021 - 27 July, 2021
+Week: 22 July, 2021 - 28 July, 2021
 
-Python       2 hrs 29 mins   ███████████████████▓░░░░░   78.75 % 
-JavaScript   38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python       2 hrs 29 mins   ████████████████████░░░░░   80.45 % 
+JavaScript   34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->

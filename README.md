@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 July, 2021 - 28 July, 2021
+Week: 23 July, 2021 - 29 July, 2021
 
 Python       2 hrs 29 mins   ████████████████████░░░░░   80.45 % 
 JavaScript   34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 % 

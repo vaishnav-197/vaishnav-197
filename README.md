@@ -29,10 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
-Python       17 mins         ███████████████░░░░░░░░░░   60.43 % 
-Text         6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.75 % 
-JavaScript   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Text     6 mins          ███████████████████████▒░   93.13 % 
 ```
 <!--END_SECTION:waka-->

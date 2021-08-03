@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2021 - 01 August, 2021
+Week: 27 July, 2021 - 02 August, 2021
 
-Text     6 mins          ███████████████████████▒░   93.13 % 
+Text     7 mins          ███████████████████████▓░   94.16 % 
 ```
 <!--END_SECTION:waka-->

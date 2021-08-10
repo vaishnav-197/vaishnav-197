@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
+Week: 03 August, 2021 - 09 August, 2021
 
-JSON         13 mins         ███████████████░░░░░░░░░░   60.48 % 
-Text         7 mins          ████████▒░░░░░░░░░░░░░░░░   32.79 % 
-Other        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JSON         13 mins         ████████████████░░░░░░░░░   63.86 % 
+Text         5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
+Other        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
 <!--END_SECTION:waka-->

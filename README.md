@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2021 - 27 August, 2021
+Week: 22 August, 2021 - 28 August, 2021
 
 Python       4 hrs 42 mins   ████████████████████████▒   96.80 % 
 Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 

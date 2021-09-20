@@ -34,12 +34,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
-Python       2 hrs 31 mins   ████████████▒░░░░░░░░░░░░   49.19 % 
-JavaScript   2 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.21 % 
-JSON         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JavaScript   2 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.88 % 
+Python       2 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.65 % 
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->

@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2021 - 04 October, 2021
+Week: 29 September, 2021 - 05 October, 2021
 
 JavaScript   1 hr 15 mins    ██████████████▓░░░░░░░░░░   58.06 % 
 Python       31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 

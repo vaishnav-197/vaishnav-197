@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2021 - 24 November, 2021
+Week: 19 November, 2021 - 25 November, 2021
 
 JSX          4 hrs 14 mins   ███████████████▓░░░░░░░░░   63.17 % 
 CSS          1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 

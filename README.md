@@ -34,12 +34,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 November, 2021 - 26 November, 2021
+Week: 21 November, 2021 - 27 November, 2021
 
-JSX          4 hrs 14 mins   ███████████████▓░░░░░░░░░   63.17 % 
-CSS          1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-HTML         43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-JavaScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Python       19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JSX          1 hr 14 mins    ██████████░░░░░░░░░░░░░░░   39.77 % 
+CSS          1 hr 2 mins     ████████▒░░░░░░░░░░░░░░░░   33.44 % 
+HTML         37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 ```
 <!--END_SECTION:waka-->

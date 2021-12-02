@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
-
-CSS    59 mins         ███████████▒░░░░░░░░░░░░░   45.75 % 
-HTML   36 mins         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-JSX    33 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

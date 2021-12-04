@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 November, 2021 - 03 December, 2021
+
+JavaScript   18 mins         █████████████████████████   99.78 % 
 ```
 <!--END_SECTION:waka-->

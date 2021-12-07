@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
 JavaScript   42 mins         ████████████████▓░░░░░░░░   66.34 % 
 EJS          19 mins         ███████▓░░░░░░░░░░░░░░░░░   30.08 % 

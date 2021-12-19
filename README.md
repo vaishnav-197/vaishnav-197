@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
-
-JSON         51 mins         █████████████░░░░░░░░░░░░   51.59 % 
-EJS          29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.06 % 
-JavaScript   19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.27 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

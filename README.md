@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 06 January, 2022 - 12 January, 2022
+
+JavaScript   15 mins         ██████████████████░░░░░░░   71.92 % 
+CSS          5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.52 % 
 ```
 <!--END_SECTION:waka-->

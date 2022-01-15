@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
 CSS          3 hrs 33 mins   ████████████▓░░░░░░░░░░░░   51.26 % 
 JavaScript   3 hrs 22 mins   ████████████░░░░░░░░░░░░░   48.55 % 

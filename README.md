@@ -33,7 +33,14 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 20 February 2022 - To: 27 February 2022
+
+Markdown     2 mins          ███████████████████████░░   92.63 %
+JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->

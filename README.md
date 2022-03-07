@@ -35,13 +35,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2022 - To: 05 March 2022
+From: 27 February 2022 - To: 06 March 2022
 
-Python       3 hrs 36 mins   ████████████████████████▓   98.16 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   3 hrs 36 mins   ███████████████████████▓░   94.25 %
+Bash     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->

@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 March 2022 - To: 10 March 2022
+From: 04 March 2022 - To: 11 March 2022
 
 Bash         16 mins         ███████████████░░░░░░░░░░   60.17 %
 JavaScript   9 mins          █████████░░░░░░░░░░░░░░░░   36.10 %

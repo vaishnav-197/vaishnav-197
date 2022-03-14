@@ -35,12 +35,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
-Bash         16 mins         ███████████████░░░░░░░░░░   60.17 %
-JavaScript   9 mins          █████████░░░░░░░░░░░░░░░░   36.10 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JavaScript   9 mins          ███████████████▓░░░░░░░░░   63.11 %
+Bash         5 mins          █████████▒░░░░░░░░░░░░░░░   36.89 %
 ```
 
 <!--END_SECTION:waka-->
